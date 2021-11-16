@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data analysis  
 - 💞️ I’m looking to collaborate on projects related with bussines development
 - 📫 hlozn94@gmail.com
+- 👨‍💼 My Public Tableau https://public.tableau.com/app/profile/hugo.lozano 
 
 <!---
 Hlozn/Hlozn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
